@@ -1,0 +1,396 @@
+h2{
+	color: #161616;
+	font-size: 40px;
+	font-weight:400;
+	font-family: 'Playfair Display', serif;
+}
+h6{
+	color :gray;
+	font-size: 18px;
+	font-family: 'Playfair Display', serif;
+}
+p{
+	 font-size: 14px;
+    color: gray;
+}
+h5{
+	color :#fff;
+	font-size: 18px;
+	font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+h3{
+	color: #fff;
+    font-weight: 400;
+    font-size: 38px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.navbar-toggler{
+	background-color: #4136361a!important;
+    border: 1px solid #28272747!important;
+}
+.nav-head{
+	background-color: #fff!important;
+	    padding: 20px 0;
+}
+.nav-link{
+    color: #161616!important;
+    font-size: 15px;
+    margin: 0px 3px;
+}
+.nav-link:after {
+    content: ' .';
+    color: #161616;
+   font-size: xx-large;
+}
+.nav-link.js-scroll-trigger.active{
+	color: orange!important;
+}
+.nav-head button {
+    background: #e64b45;
+    border: none;
+    color: #fff;
+    font-size: 13px;
+    height: 40px;
+    margin-left: 45px;
+    margin-top: 14px;
+}
+.hero{
+	background-image: url(../img/hero.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.hero-detail{
+	padding: 100px 0px;
+	color: #fff;
+	text-align: center;
+}
+.hero-detail h1{
+	padding-top: 30px;
+	    font-size: 45px;
+    font-weight: 400;
+    color: #f6d472;
+    font-family: 'Playfair Display', serif;
+}
+.hero-detail h3{
+	font-size: 30px;
+    font-weight: 400;
+    color: #f6d472;
+    font-family: 'Playfair Display', serif;
+}
+.hero-detail button{
+	    padding: 18px 70px;
+    margin-top: 30px;
+    background: #f8cd53;
+    color: #fff;
+    border align-content: normal;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+}
+button.navbar-toggler {
+    margin-right: 20px;
+    color: gray;
+    font-size: 25px;
+}
+.title{
+	    text-align: center;
+    	padding: 26px;
+}
+.black-span{
+	border-bottom: 4px solid black;
+    display: block;
+    width: 50px;
+    margin: 35px auto;
+}
+.white-span{
+	border-bottom: 4px solid white;
+    display: block;
+    width: 50px;
+    margin: 0 auto;
+}
+.about-detail{
+	text-align: center;
+}
+.about-detail h4{
+	padding: 25px 16px;
+}
+.approch{
+	background-color: #e3e1e1;
+}
+.left-step{
+	width: 29%;
+    text-align: center;
+    padding: 5px;
+    background: #e3453f;
+    border: 2px solid #fff;
+    color: #fff;
+    position: absolute;
+    top: 70px;
+       right: -8%;
+}
+.approch-section{
+   background-color: #fff;
+   margin: 20px 0px;
+}
+.approch-1-detail{
+	padding: 80px 44px;
+}
+.nopadding{
+	padding: 0px!important;
+	margin: 0px!important; 
+}
+.approch-2-detail{
+	
+    padding: 80px 68px;
+	text-align: right;
+}
+.right-step{
+	width: 29%;
+    text-align: center;
+    padding: 5px;
+    background: #e3453f;
+    border: 2px solid #fff;
+    color: #fff;
+    position: absolute;
+    top: 70px;
+    left: -15%;
+}
+.work{
+	background-color: #f04e48;
+}
+.photo{
+	 padding: 20px 0 ;
+}
+.photo img{
+	width: 100%;
+}
+.blue{
+	background-color: #2595cb;	
+}
+.blue-detail{
+	text-align: center;
+}
+.fa.fa-chevron-circle-down {
+    font-size: 40px;
+    color: #ffffffcf;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.contact-form{
+	background-color: #fff;
+    padding: 35px;
+}
+.contact-form p{
+	    text-align: center;
+    margin-bottom: 30px;
+}
+.form-group{
+	    padding: 0px 40px;
+}
+.contact-form button {
+    margin: 0 auto;
+    padding: 10px 40px;
+    display: block;
+    background: #e44b45;
+    border: none;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.triangle-up {
+    width: 0px;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 35px solid #fff;
+    position: absolute;
+    top: -35px;
+    left: 46%;
+}
+.last{
+	background-color: #2a2a2a;
+	text-align: center;
+}
+.last-icon{
+    margin: 30px 0px;
+}
+.last-icon i {
+    background: transparent;
+    padding: 7px;
+    margin: 2px;
+    font-size: 30px;
+    border: 2px solid gray;
+    width: 54px;
+    color: #fff;
+}
+.fa.fa-facebook:hover{
+	border: 2px solid #c64c31e0;    
+}
+.fa.fa-twitter:hover{
+	border: 2px solid #c64c31e0; 
+}
+.fa.fa-linkedin:hover{
+	border: 2px solid #c64c31e0; 
+}
+.fa.fa-google-plus:hover{
+	border: 2px solid #c64c31e0; 
+}
+.last input{
+	margin: 30px 0px;
+    width: 100%;
+    padding: 15px 10px;
+    background: #5151517a;
+    border: none;
+}
+.last button {
+    color: #fff;
+    padding: 10px 25px;
+    background: transparent;
+    border: 2px solid #645e5e;
+    font-size: 18px;
+}
+footer{
+	 background: #515151;
+}
+footer p{
+    margin: 20px auto;
+    color: #161616;
+}
+
+
+
+/*media quary*/
+/* mobile device*/
+@media(min-width: 320px) and (max-width: 500px){
+	.hero-detail h1 {
+		font-size: 40px;	
+		font-weight: 500;
+
+	}
+	.hero-detail h3 {
+		font-size: 23px;
+	}
+	.hero-detail button {
+		    padding: 13px 30px;
+		    font-size: 15px;
+	}
+	h2{
+		font-size: 35px;
+    font-weight: 500;
+	}
+	h6 {
+    	font-size: 15px;
+	}
+	.left-step{
+		right: 8%;
+	}
+	.right-step{
+		left: 63%;
+		
+	}
+	h3{
+		font-size: 32px;
+	}
+	h5{
+		font-size: 16px;
+	}
+	.fa.fa-chevron-down {
+    font-size: 20px;
+	}
+	.last-icon i{
+		font-size: 22px;
+		width: 50px;
+	}
+	.photo img{
+		    width: 300px;
+    display: block;
+    margin: 10px auto;
+	}
+}
+
+/* tab device*/
+@media(min-width: 500.1px) and (max-width: 768px){
+	.hero-detail h1 {
+		font-size: 40px;	
+		font-weight: 500;
+
+	}
+	.hero-detail h3 {
+		font-size: 23px;
+	}
+	.hero-detail button {
+		    padding: 13px 30px;
+		    font-size: 15px;
+	}
+	h2{
+		font-size: 35px;
+    font-weight: 500;
+	}
+	h6 {
+    	font-size: 15px;
+	}
+	.approch-1-detail {
+   		 padding: 25px 40px;
+	}
+	.approch-2-detail {
+    	padding: 25px 40px;
+    }
+	.left-step{
+		right: 14%;
+	}
+	.right-step{
+		left: 56%;
+		
+	}
+	h3{
+		font-size: 32px;
+	}
+	h5{
+		font-size: 16px;
+	}
+	.fa.fa-chevron-down {
+    font-size: 20px;
+	}
+	.last-icon i{
+		font-size: 22px;
+		width: 50px;
+	}
+	.photo img{
+	    width: 300px;
+    	display: block;
+   		 margin: 10px auto
+	}
+}
+
+
+@media(min-width: 768.1px) and (max-width: 992px){
+	.left-step{
+	    width: 40%;
+	    top: 29px;
+    	right: -28%;
+
+	}
+	.right-step{
+		width: 40%;
+	    top: 29px;
+	    left: 87%;
+    	
+	}
+	.approch-1-detail {
+    	padding: 15px ;
+	}
+	.approch-2-detail {
+    	padding: 15px;
+    	text-align: right;
+	}
+}
+
+@media(min-width: 992.1px) and (max-width: 1200px){
+	.right-step {
+    	width: 32%;
+    	top: 29px;
+    	left: -49px;
+	}
+}
